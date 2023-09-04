@@ -127,7 +127,7 @@ with st.container():
         st.subheader("Machine Learning Dashboard")
         st.write("This app predicts the Heart Disease")
         if st.button('Enter App', key="https://heart-disease-dashboard-project-jctb3carhy6y6kbihlhi7x.streamlit.app"):
-            js = "window.open('https://github.com/syarifudin-it')"  # New tab or window
+            js = "window.open('https://heart-disease-dashboard-project-jctb3carhy6y6kbihlhi7x.streamlit.app')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.write('Web Application opens in new browser tab')
