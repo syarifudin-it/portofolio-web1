@@ -187,7 +187,7 @@ with st.container():
             div = Div(text=html)
             st.bokeh_chart(div)
     with col5:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
+        st.image('portofolioweb.jpg')
         st.subheader("Portfolio Website made with Streamlit")
         st.write("Portfolio Website made with Python/Streamlit.")
         if st.button('Enter App', key="https://portofolio-web1-q2ydirwj4qqz7xjj64o8nt.streamlit.app/"):
