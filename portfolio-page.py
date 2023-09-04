@@ -247,6 +247,6 @@ with st.container():
             """
         )
     with col2:
-        st.markdown("<p style='text-align: right;'>Made in 2022 with ❤, 🐍 and Streamlit</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: right;'>Made in 2023 with ❤, 🐍 and Streamlit</p>", unsafe_allow_html=True)
     st.write("---")
 
