@@ -68,6 +68,7 @@ with st.container():
         st.write(
             """
             I have been IT professionally since 2014, starting with IT Technical Support on IT Consultant 🐱‍👤
+            - Linkedin Profile ([Click Here](https://www.linkedin.com/in/syarifudin-5865a1168/))
             
             Short facts & milestones:
             - Certified MTCNA - Mikrotik Academy
