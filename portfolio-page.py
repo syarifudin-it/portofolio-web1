@@ -6,7 +6,7 @@ from bokeh.models.widgets import Div
 
 
 st.set_page_config(
-    page_title="🚀 Raffaels Portfolio Page 🚀",
+    page_title="🚀 Syarifudin's Portfolio Page 🚀",
     page_icon=":boy:",
     layout="wide",
 )
@@ -67,7 +67,7 @@ with st.container():
         st.header("About")
         st.write(
             """
-            I have been programming professionally since 2014, starting with developing Excel-VBA automations during a 6-month internship 🐱‍👤
+            I have been IT professionally since 2014, starting with IT Technical Support on IT Consultant 🐱‍👤
             
             Short facts & milestones:
             - PCAP – Certified Associate in Python Programming (Python Institute) ([verify](https://www.credly.com/badges/67791b7b-971d-4686-8665-88a3bd922dd9))
