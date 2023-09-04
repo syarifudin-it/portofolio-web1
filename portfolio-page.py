@@ -98,7 +98,7 @@ with st.container():
             Databases
             - MySQL, PostgreSQL
             Hosting & Cloud
-            - Azure, Streamlit Cloud 😉
+            - Azure, Admin Office365, Exchange Online, Streamlit Cloud 😉
             Miscellaneous
             - Github
             Network
