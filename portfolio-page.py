@@ -77,7 +77,7 @@ with st.container():
             - Training/Bootcamp Machine Learning dan AI DQLab 2023
             - Bachelor's degree. Informatics Engineering (STT PELITA BANGSA)
             - 8+ years of professional experience in IT Specialist | Network Engineer
-            - Enthusiasm for Data Engineering, Automating Things, Data Scientist, Futsal, and fast food 🍕🍟🥓🍔🥯🍨🍫
+            - Enthusiasm for Network Engineering, Data Engineering, Automating Things, Data Scientist, Futsal, and fast food 🍕🍟🥓🍔🥯🍨🍫
             If you are interested in building something together, have questions/suggestions about my code or just wanna connect, feel free to get in touch with me! 
             """
         )
