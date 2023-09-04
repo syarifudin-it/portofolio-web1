@@ -123,7 +123,7 @@ with st.container():
 
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
+        st.image('MachineLearningDasboard.jpg')
         st.subheader("Machine Learning Dashboard")
         st.write("This app predicts the Heart Disease")
         if st.button('Enter App', key="https://heart-disease-dashboard-project-jctb3carhy6y6kbihlhi7x.streamlit.app"):
