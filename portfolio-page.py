@@ -183,14 +183,18 @@ with st.container():
             div = Div(text=html)
             st.bokeh_chart(div)
     with col5:
-        st.image('portofolioweb.jpg')
-        st.subheader("Portfolio Website made with Streamlit")
-        st.write("Portfolio Website made with Python/Streamlit.")
-        if st.button('Enter App', key="https://portofolio-web1-q2ydirwj4qqz7xjj64o8nt.streamlit.app/"):
-            st.write('You are already on the streamlit portfolio website 😃')
-        if st.button('Github', key="spw_github"):
+        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
+        st.subheader("Github E-Mail Exposer")
+        st.write("Expose all E-Mail addresses contributing to a given Github account.")
+        if st.button('Enter App', key="gee_enter"):
+            js = "window.open('https://github.com/ratherUsefulCode/github-email-exposer')"  # New tab or window
+            html = '<img src onerror="{}">'.format(js)
+            div = Div(text=html)
+            st.write('Web Application opens in new browser tab')
+            st.bokeh_chart(div)
+        if st.button('Github', key="gee_github"):
             st.write('Github opens in new browser tab')
-            js = "window.open('https://github.com/syarifudin-it/portofolio-web1')"  # New tab or window
+            js = "window.open('https://github.com/ratherUsefulCode/github-email-exposer')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
