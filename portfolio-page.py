@@ -171,9 +171,9 @@ with st.container():
 with st.container():
     col4, col5, col6 = st.columns(3)
     with col4:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
-        st.subheader("QR Codes Reader and Generator")
-        st.write("Create and/or read every QR code.")
+        st.image('migration-switch.jpg')
+        st.subheader("Migration Switch Core  Cisco and Distribution")
+        st.write("Migration Switch Old To New Device Cisco at PT UTPE .")
         if st.button('Enter App', key="qrc_enter"):
             st.write('Web Application opens in new browser tab')
         if st.button('Github', key="qrc_github"):
