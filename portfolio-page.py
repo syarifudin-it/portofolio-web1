@@ -70,10 +70,14 @@ with st.container():
             I have been IT professionally since 2014, starting with IT Technical Support on IT Consultant 🐱‍👤
             
             Short facts & milestones:
-            - PCAP – Certified Associate in Python Programming (Python Institute) ([verify](https://www.credly.com/badges/67791b7b-971d-4686-8665-88a3bd922dd9))
-            - MSc Quant. Finance & Corp. Finance (Universität Regensburg)
-            - 6+ years of professional experience in various investment banks and asset managers
-            - Enthusiasm for data engineering, automating things, ball sports, hiking in the bavarian alps and fast food 🍕🍟🥓🍔🥯🍨🍫
+            - Certified MTCNA - Mikrotik Academy
+            - Certified Junior Network Administrator - BNSP
+            - Training CCNA 200-301 ID-Networkers
+            - Training Digital Talent Schoolarship Kominfo - CCNA Netwok Engineer
+            - Training/Bootcamp Machine Learning dan AI DQLab 2023
+            - Bachelor's degree. Informatics Engineering (STT PELITA BANGSA)
+            - 8+ years of professional experience in IT Specialist | Network Engineer
+            - Enthusiasm for Data Engineering, Automating Things, Data Scientist, Futsal, and fast food 🍕🍟🥓🍔🥯🍨🍫
             If you are interested in building something together, have questions/suggestions about my code or just wanna connect, feel free to get in touch with me! 
             """
         )
