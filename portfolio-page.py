@@ -200,9 +200,9 @@ with st.container():
             div = Div(text=html)
             st.bokeh_chart(div)
     with col6:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
-        st.subheader("Portfolio Website made with Bootstrap")
-        st.write("Portfolio Website made with HTML/Bootstrap.")
+        st.image('freelance.jpg')
+        st.subheader("Freelance Network Support and Data Scientist")
+        st.write("Freelance job from Linkedin SSE Global and Data Scientist")
         if st.button('Enter App'):
             js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
@@ -216,7 +216,7 @@ with st.container():
             st.bokeh_chart(div)
 
 
-# --- CONTACT ---
+# --- CONTACT ME ---
 with st.container():
     st.write("---")
     st.markdown("<h2 style='text-align: center;'>Contact</h2>", unsafe_allow_html=True)
