@@ -155,14 +155,14 @@ with st.container():
         st.subheader("Setup Access Point Ubuquity and Controller In linux server")
         st.write("Setup and configuration management wireless ubiquity on Campus STT Pelita")
         if st.button('Enter App', key="ccw_enter"):
-            js = "window.open('https://crypto-watchlist-rather-to.herokuapp.com/')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.write('Web Application opens in new browser tab')
             st.bokeh_chart(div)
         if st.button('Github', key="ccw_github"):
             st.write('Github opens in new browser tab')
-           js = "window.open('https://github.com/ratherUsefulCode/')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
