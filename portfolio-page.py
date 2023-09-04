@@ -124,17 +124,17 @@ with st.container():
     col1, col2, col3 = st.columns(3)
     with col1:
         st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
-        st.subheader("Excel Row Splitter")
-        st.write("Splits large xlsx/csv files at a given row and saves it in new xlsx/csv files.")
-        if st.button('Enter App', key="ews_enter"):
-            js = "window.open('https://github.com/ratherUsefulCode')"  # New tab or window
+        st.subheader("Machine Learning Dashboard")
+        st.write("This app predicts the Heart Disease")
+        if st.button('Enter App', key="https://heart-disease-dashboard-project-jctb3carhy6y6kbihlhi7x.streamlit.app"):
+            js = "window.open('https://github.com/syarifudin-it')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.write('Web Application opens in new browser tab')
             st.bokeh_chart(div)
         if st.button('Github', key="ews_github"):
             st.write('Github opens in new browser tab')
-            js = "window.open('https://github.com/ratherUsefulCode/excel-row-splitter')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/heart-disease-dashboard-project')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
