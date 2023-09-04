@@ -35,10 +35,10 @@ with st.container():
     col1, col2 = st.columns((2, 1))
     with col1:
         st.title("Welcome to my Portfolio Page!")
-        st.subheader("Hi, I am Raffael 🤗")
+        st.subheader("Hi, I am Syarifudin 🤗")
         st.subheader(
             """
-            I'm a Munich-based *Python Developer* who specializes in the broad fields of *Automation* and *Data*.
+            I'm a Indonesian-based *IT Specialist | Network Engineer* who specializes in the broad fields of *Network Engieerng* and *Data Scientist*.
             """
         )
         st.write("""""")
@@ -88,15 +88,19 @@ with st.container():
         st.write(
             """
             Languages
-            - Python, HTML, CSS
+            - Python, HTML, CSS, PHP, Google Collab
             Frameworks
-            - FastAPI, Dash, Django, Flask, Bootstrap
+            - Bootstrap, Codeigniter
             Databases
-            - MySQL, PostgreSQL, MongoDB
+            - MySQL, PostgreSQL
             Hosting & Cloud
-            - AWS, Azure, Heroku, Vercel, Streamlit Cloud 😉
+            - Azure, Streamlit Cloud 😉
             Miscellaneous
-            - Git, Github, CI/CD, Docker
+            - Github
+            Network
+            - Cisco, Mikrotik, Palo Alto, FortiNet, Sophos, Ruckus, Cambium, Huawei
+            Server
+            - Zimbra Mail, Active Directory Windows, File Server Windows, FTP, Web Server, NAS, Veeam Backup, Vsphere VM
              """
         )
 
