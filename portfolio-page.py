@@ -178,23 +178,23 @@ with st.container():
             st.write('Web Application opens in new browser tab')
         if st.button('Github', key="qrc_github"):
             st.write('Github opens in new browser tab')
-            js = "window.open('https://github.com/ratherUsefulCode/github-email-exposer')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
     with col5:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
-        st.subheader("Github E-Mail Exposer")
-        st.write("Expose all E-Mail addresses contributing to a given Github account.")
+        st.image('zimbra.jpg')
+        st.subheader("Upgrade dan migrasi Mail Server Zimbra")
+        st.write("Upgrade dan migrasi zimbra mail server, backup list email dan password, install server centos dan zimbra mailbox and mta")
         if st.button('Enter App', key="gee_enter"):
-            js = "window.open('https://github.com/ratherUsefulCode/github-email-exposer')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.write('Web Application opens in new browser tab')
             st.bokeh_chart(div)
         if st.button('Github', key="gee_github"):
             st.write('Github opens in new browser tab')
-            js = "window.open('https://github.com/ratherUsefulCode/github-email-exposer')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
@@ -203,13 +203,13 @@ with st.container():
         st.subheader("Portfolio Website made with Bootstrap")
         st.write("Portfolio Website made with HTML/Bootstrap.")
         if st.button('Enter App'):
-            js = "window.open('https://rather.to')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
             st.write('Web Application opens in new browser tab')
         if st.button('Github', key="bpw_github"):
-            js = "window.open('https://github.com/ratherUsefulCode/rather-to')"  # New tab or window
+            js = "window.open('https://github.com/syarifudin-it/')"  # New tab or window
             html = '<img src onerror="{}">'.format(js)
             div = Div(text=html)
             st.bokeh_chart(div)
