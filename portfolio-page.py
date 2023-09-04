@@ -151,7 +151,7 @@ with st.container():
             div = Div(text=html)
             st.bokeh_chart(div)
     with col3:
-        st.image("https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/NewsImages/08172020000734AM/Learn-Python.png")
+        st.image('Ubuntu-UniFi-Controller.jpg')
         st.subheader("Setup Access Point Ubuquity and Controller In linux server")
         st.write("Setup and configuration management wireless ubiquity on Campus STT Pelita")
         if st.button('Enter App', key="ccw_enter"):
