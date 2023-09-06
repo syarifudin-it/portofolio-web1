@@ -38,7 +38,7 @@ with st.container():
         st.subheader("Hi, I am Syarifudin 🤗")
         st.subheader(
             """
-            I'm a Indonesian-based *IT Specialist | Network Engineer* who specializes in the broad fields of *Network Engieerng* and *Data Scientist*.
+            I'm a Indonesian-based *IT Specialist | Network Engineer* who specializes in the broad fields of *Network Engineer* and *Data Scientist*.
             """
         )
         st.write("""""")
