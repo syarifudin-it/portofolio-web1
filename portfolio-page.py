@@ -2,7 +2,7 @@
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
-from bokeh.models.widgets import Div
+#from bokeh.models.widgets import Div
 from bokeh.models.widgets import Panel
 from bokeh.models.widgets import Tabs
 
